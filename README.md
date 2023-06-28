@@ -10,8 +10,7 @@
 ### 보유스킬
 IDE - <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
       <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" /> <br>
-백 - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)<br>
+백 - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <br>
 
 프론트	  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
 	  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"> 
@@ -22,8 +21,8 @@ DataBase - <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=
   	   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">  <br>
 
       
-FrameWork -   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> <br>
-ORM - 
+FrameWork -   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <br>
+ORM - <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=white">
 
  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <hr>
