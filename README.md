@@ -8,7 +8,7 @@
 <hr>
 
 ### 보유스킬
-
+<div>
 	  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
           <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" /> <br>
 	  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <br>
@@ -22,7 +22,7 @@
 	  <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=white"> <br>
 	  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
-
+</div>
 <hr>
 
 - 👯 I’m looking to collaborate on ...
