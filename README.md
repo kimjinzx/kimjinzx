@@ -12,6 +12,7 @@
 	  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
           <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" /> <br>
 	  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <br>
+	  <img src="https://img.shields.io/badge/JSP-EAEAEA?style=flat&logo=JSP&logoColor=white">
 	  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
 	  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"> 
 	  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
