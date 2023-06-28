@@ -7,7 +7,7 @@
 <br> - 공부기록 및 프로그래머스 문제풀이 https://www.notion.so/dcdd9ffe89b341709aceb6917e88ed00?pvs=4
 
 ### 보유스킬
-	<div align="center">
+<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
