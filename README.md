@@ -4,7 +4,8 @@
 ## History 📚
 - 2022/12/17 ~ 2023/06/21 중앙정보처리학원 프로젝트 기반 자바 응용 SW개발자 취업과정 수료 <br>
 - 2023/06/21 중앙정보처리학원 기업 팀 프로젝트 ERP, MES 고도화 개발프로젝트 대상 수상  <br>
-- 공부기록 블로그 https://blog.naver.com/jinhyun7675 <br>
+- 공부기록 블로그  <img src="https://blog.naver.com/jinhyun7675/badge/naver.Blog-2C2255?style=flat&logoColor=white" />
+- https://blog.naver.com/jinhyun7675 <br>
 - 자바 공부 기록 및 프로그래머스 문제풀이 https://www.notion.so/dcdd9ffe89b341709aceb6917e88ed00?pvs=4 <br>
 
 
