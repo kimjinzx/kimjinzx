@@ -1,8 +1,8 @@
 # G'day everyone
- Kim Jinhyeon
- 2000/07/19
- 🏠 Seoul
- 📫 jinhyun7675@gmail.com
+ - Kim Jinhyeon
+ - 2000/07/19
+ - 🏠 Seoul
+ - 📫 jinhyun7675@gmail.com
  
 
 ## History 📚
@@ -33,7 +33,4 @@
 </div>
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
