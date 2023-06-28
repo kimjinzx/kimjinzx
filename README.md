@@ -1,13 +1,13 @@
 ### JIN HYEON  🖥️
 <hr>
 
-### 
+## History
 <br> - 2022/12/17 ~ 2023/06/21 중앙정보처리학원 프로젝트 기반 자바 응용 SW개발자 취업과정 수료
 <br> - 공부기록 https://blog.naver.com/jinhyun7675
 <br> - 공부기록 및 프로그래머스 문제풀이 https://www.notion.so/dcdd9ffe89b341709aceb6917e88ed00?pvs=4
 <hr>
 
-### Skills
+## Skills
 <div>
 	  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
           <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" /> <br>
