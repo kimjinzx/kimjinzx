@@ -1,7 +1,7 @@
 # G'day everyone
  - Kim Jinhyeon
- - 2000/07/19
- - 🏠 Seoul
+ - born in 2000/07/19
+ - 🏠 Living in Seoul
  - 📫 jinhyun7675@gmail.com
  
 
