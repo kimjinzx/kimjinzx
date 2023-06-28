@@ -7,7 +7,7 @@
 <br> - 공부기록 및 프로그래머스 문제풀이 https://www.notion.so/dcdd9ffe89b341709aceb6917e88ed00?pvs=4
 <hr>
 
-### SKILLS
+### Skills
 <div>
 	  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
           <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" /> <br>
