@@ -8,9 +8,12 @@
 <hr>
 
 ### 보유스킬
-Language - <img src="https://img.shields.io/badge/Java11-007396?style=flat&logo=Java&logoColor=white" /> <br>
 IDE - <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-      <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" />
+      <img src="https://img.shields.io/badge/sts3-2C2255?style=flat&logo=sts3&logoColor=white" /> <b>
+Language - <img src="https://img.shields.io/badge/Java11-007396?style=flat&logo=Java&logoColor=white" /> <br>
+DB - <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+
 
 
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
