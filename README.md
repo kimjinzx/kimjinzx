@@ -2,7 +2,7 @@
  - Kim Jinhyeon
  - born in 2000/07/19
  - 🏠 Living in Seoul
- - 📫 jinhyun7675@gmail.com
+ - 📫 jinhyun7675@gmail.com 
  
 
 ## History 📚
