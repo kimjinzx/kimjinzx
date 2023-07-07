@@ -1,5 +1,5 @@
 # G'day everyone
- - Kim Jinhyeon
+ - 김진현(金進賢) Kim Jinhyeon 
  - born in 2000/07/19
  - 🏠 Living in Seoul
  - 📫 jinhyun7675@gmail.com 
