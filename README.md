@@ -10,10 +10,10 @@
 - 2023/06/21 중앙정보처리학원 기업 팀 프로젝트 (ERP, MES 고도화 개발프로젝트) 대상 수상  <br>
 - 2023/04/03 ~ 2023/05/12 중앙정보처리학원 1차 내부 팀 프로젝트(Share Go) 개발 
 - 2023/05/19 ~ 2023/06/09 중앙정보처리학원 2차 기업 팀 프로젝트(ERP, MES고도화 시스템) 개발 <br>
-- 공부기록 블로그  [https://blog.naver.com/jinhyun7675] <br>
+
+## Study ✍️
+- 수업기록 블로그  [https://blog.naver.com/jinhyun7675] <br>
 - 프로그래머스(JAVA,SQL) 문제풀이 노션 [https://www.notion.so/822060b8fc864f36865049e2f2f96a79?v=66174de772d0463b8a8eb387d8e1e4ee&pvs=4] <br>
-
-
 
 ## Skills 💪
 <div>
